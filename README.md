@@ -1,4 +1,4 @@
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=13233256)
+![work-4](https://github.com/irm1005-itec1005-fall-2023/final-exam-Gerno11/assets/144711486/9c16d210-316d-4feb-8527-1f69d7959842)![window](https://github.com/irm1005-itec1005-fall-2023/final-exam-Gerno11/assets/144711486/2a2569a0-15ff-493b-a49c-89d48254b5a3)![window](https://github.com/irm1005-itec1005-fall-2023/final-exam-Gerno11/assets/144711486/a6928c01-6e92-4c90-b053-5a977b9b003f)[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=13233256)
 # Final Exam
 
 **Course Title**: Web Development
@@ -170,3 +170,29 @@ There are a few ways that you can submit your work to your Assignment repository
 ### Git
 
 - [Interactive Git training materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
+
+- ![Uploading w![logo-dark](https://github.com/irm1005-itec1005-fall-2023/final-exam-Gerno11/assets/144711486/96a7a6b6-3c43-481e-87da-82185589aba1)![work-4](https://github.com/irm1005-itec1005-fall-2023/final-exam-Gerno11/assets/144711486/680ee1c1-40cb-4ce1-94b2-b87ce2c6d4b9)
+indow.svg…]()
+
+![Uploading window.![logo-dark](https://github.com/irm1005-itec1005-fall-2023/final-exam-Gerno11/assets/144711486/3dd6c8a8-d6c7-4464-8371-9a309cd50ce2)![work-4](https://github.com/irm1005-itec1005-fall-2023/final-exam-Gerno11/assets/144711486/4672fe38-9834-4e2b-9c2c-05f7f3ef8275)
+svg
+
+
+
+![Uploading work![window](https://github.com/irm1005-itec1005-fall-2023/final-exam-Gerno11/assets/144711486/282c3339-c20a-425d-acbf-f05f8a8f5be3)![logo-dark](https://github.com/irm1005-itec1005-fall-2023/final-exam-Gerno11/assets/144711486/4c09a422-09ae-4063-8526-b2117877b401)
+-4.png…]()
+
+
+![work-2](https://gi![work-4](https://github.com/irm1005-itec1005-fall-2023/final-exam-Gerno11/assets/144711486/31ae4265-a487-4fe8-85bb-d33d05792488)
+thub.com![work-1]![work-2](https://github.com/irm1005-itec1005-fall-2023/final-exam-Gerno11/assets/144711486/77f9b094-bab0-41c2-9e26-bf64b97dee76)
+![work-3](https://github.com/irm1005-itec1005-fall-2023/final-exam-Gerno11/assets/144711486/077ed374-8a8e-4ea3-8520-67b12d65eaeb)
+![work-4](https://github.com/irm1005-itec1005-fall-2023/final-exam-Gerno11/assets/144711486/66bbd0da-4554-4ae4-8539-bcc97bb9829b)
+![work-1](https://github.com/irm1005-itec1005-fall-2023/final-exam-Gerno11/assets/144711486/1cd47485-4959-48de-84fe-aeed8adc4f29)
+(https://github.com/irm1005-itec1005-fall-2023/final-exam-Gerno11/assets/144711486/1137080c-a8f7-4e39-ad20-58137611ea9d)
+/irm1005-itec1005-fall-2023/final-exam-Gerno11/assets/144711486/652bb3c3-6b95-44ab-8bff-35f889ac9911)
+![work-3](https://github.com/irm1005-itec1005-fall-2023/final-exam-Gerno11/assets/144711486/7f1e8117-4bd7-4586-825a-588df8fb3a96)
+
+
+![work-2](https://github.com/irm1005-itec1005-fall-2023/final-exam-Gerno11/assets/144711486/9a45a2b1-a9d0-417a-a82f-83292bbe20bb)
+
+![work-1](https://github.com/irm1005-itec1005-fall-2023/final-exam-Gerno11/assets/144711486/862167f6-a065-4746-a1f3-a8ef72e9b887)
