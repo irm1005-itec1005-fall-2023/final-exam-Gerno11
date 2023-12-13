@@ -67,3 +67,226 @@ body {
 /*
  * ADD YOUR STYLES HERE
  */
+*{
+    text-decoration: none;
+}
+
+.bbbbb {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 500px;
+    padding-top: 100px;
+    padding-bottom:100px;
+   margin: 20px;
+}
+
+.navbar {
+    background-color:white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+
+li {
+    list-style:none;
+    display: inline-block;
+    background-color: black;
+    border-radius: 10px;
+    padding:10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.li:hover {
+        background-color:white;
+    }
+
+
+li a {
+    color: white;
+    font-size: 14px;
+    margin-right: 25px;
+    font-size: large;
+    
+}
+
+.content-container {
+    display: flex; 
+    
+}
+
+.text-container {
+    margin-left: 20px; 
+}
+
+.text-container h2 {
+    color: black;
+    width: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+}
+
+.text-container p {
+    color:black;
+    width: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    
+}
+
+.resized-image {
+    max-width: 500px; 
+    width: 100%; 
+    height: auto; 
+    display: block; 
+    border-radius: 50rem;
+}
+
+.action-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color:pink;
+    color:black;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    font-weight: bold;
+}
+
+.action-button:hover {
+    background-color:green;
+}
+
+.George {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-size: x-large;
+}
+
+.Elise {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); 
+    gap: 10px; 
+    max-width: 600px; 
+    margin: 20px auto; 
+}
+
+
+.Elise img {
+    width: 100%; 
+    height: auto; 
+    display: block; 
+}
+
+.navdiv {
+    background-color: white; 
+    color: #fff; 
+    padding: 10px 20px; 
+    border-bottom: 2px solid #fff;
+    display: flex; 
+    justify-content: space-between; 
+   
+}
+
+
+.svg-container {
+    border: black; 
+    width: fit-content; 
+    background-color: black;
+    border-radius: 20px;
+    padding: none;
+}
+
+
+.svg-with-border {
+    display: block; 
+}
+
+.Mckee {
+    display: inline-block;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 50px;
+    background-color:lightskyblue;
+    color:black;
+    border: none;
+    border-radius: 20px;
+    font-size: 16px;
+    width:800px;
+    margin: 100px;
+}
+
+.Alaneme {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color:black;
+    color:white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    font-weight: bold;
+}
+
+.Alaneme:hover {
+    background-color:white;
+    color:black
+}
+
+.Vera {
+    display: inline-block;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 200px;
+    width: 150px;
+    background-color:lightskyblue;
+    color:black;
+    border: none;
+    border-radius: 20px;
+    font-size: 16px;
+    margin: 100px;
+    font-weight: bold;
+    
+}
+
+.Vera p {
+    padding: 10px; 
+}
+
+.bright {
+    display: inline-block;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 50px;
+    width: 150px;
+    background-color:pink;
+    color:black;
+    border: none;
+    border-radius: 20px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.bright p {
+    padding: 10px;
+    
+}
+
+.Egwim {
+    display: inline-block;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 50px;
+    width: 150px;
+    background-color:pink;
+    color:black;
+    border: none;
+    border-radius: 20px;
+    font-size: 16px;
+    font-weight: bold;  
+}
+
+.Egwim {
+    padding: 10px; 
+}
+
